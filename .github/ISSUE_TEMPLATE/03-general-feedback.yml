@@ -1,0 +1,37 @@
+name: 📝 通用意见与体验反馈
+description: UI、文案、操作流程与其他轻量反馈
+title: "[Suggestion] "
+labels: ["feedback"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果是闪退、数据未保存或计算异常，请使用“Bug 反馈”模板。
+        请勿提交真实的儿童身份、饮食或健康数据。
+  - type: input
+    id: device
+    attributes:
+      label: 设备与 iOS 版本
+      placeholder: 例如 iPhone 16 / iOS 18.6
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: PheCare 版本
+      placeholder: 例如 1.0 (1)
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: 反馈内容
+      placeholder: 请描述不便之处或希望优化的体验。
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充说明（可选）
+      description: 截图必须先移除全部个人和健康信息。
