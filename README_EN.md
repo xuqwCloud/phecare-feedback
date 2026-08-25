@@ -8,7 +8,7 @@
 
 > User support, privacy information, feature requests, and bug reports for PheCare
 
-PheCare is an iPhone food and health record app for parents and caregivers of children with PKU. It helps users record food intake, special formula, blood Phe test results, and growth measurements, with calculations and trend summaries performed on the device.
+PheCare is an iPhone daily record app for parents and caregivers of children with PKU. It helps users organize food intake, special formula, blood Phe test results, and growth measurements, with calculations and trend displays performed on the device.
 
 This repository **does not contain the PheCare source code**. It is used to:
 
@@ -19,7 +19,7 @@ This repository **does not contain the PheCare source code**. It is used to:
 
 > **Important**
 >
-> PheCare is a household record-keeping and information-organizing tool. It does not provide a medical diagnosis, treatment plan, or special-formula dosage recommendation. Dietary targets, blood-value targets, and treatment changes must be determined individually by a physician or qualified dietitian.
+> PheCare is a household record-keeping, numeric-conversion, and information-organizing tool. It does not determine an individual's condition, create a management plan, assess suitability, or recommend a special-formula amount. Users enter targets based on their independently confirmed management basis; displayed intervals and estimates do not automatically generate individualized conclusions or actions.
 
 ## Key Features
 
@@ -84,7 +84,7 @@ Core data is stored locally on the user's device. Export and import actions must
 
 Food entries identify their source, preparation state, and data type where possible. Some foundational nutrition data comes from USDA FoodData Central and is published under CC0 1.0. Chinese PKU references identify the relevant consensus or source material.
 
-Food variety, origin, preparation, brand formulation, and production batch can all affect actual nutrient values. Estimates in the app do not replace package labels, manufacturer reports, laboratory results, or professional medical advice.
+Food variety, origin, preparation, brand formulation, and production batch can all affect actual nutrient values. Estimates in the app are provided only to support record keeping; users should rely on product labels, manufacturer information, and data sources they have independently confirmed.
 
 ## How to Submit Feedback
 
@@ -99,8 +99,8 @@ Before submitting:
 - Search existing Issues to avoid duplicates
 - Include your iOS version, device model, PheCare version, and reproduction steps
 - Screenshots are welcome only after all sensitive information has been removed
-- **Do not upload a child's name, birth date, blood values, hospital information, complete dietary records, or exported backup files**
-- This repository does not provide medical advice; contact a qualified healthcare professional for urgent or individualized medical questions
+- **Do not upload a child's name, birth date, blood values, testing-organization information, complete dietary records, or exported backup files**
+- This repository handles product-use and data issues only; it does not provide individualized assessments or amount recommendations for a specific child
 
 ## What to Include in a Bug Report
 
@@ -110,7 +110,7 @@ Before submitting:
 4. Expected and actual behavior
 5. A redacted screenshot or error message, if available
 
-For calculation issues, use fictional or redacted examples rather than real children's health data.
+For calculation issues, use fictional or redacted examples rather than real children's personal records.
 
 ## Open Discussion
 
@@ -118,8 +118,8 @@ Early ideas and informal conversations are welcome in [Discussions](../../discus
 
 ## What We Do Not Accept
 
-- Personal data or children's health information
-- Diagnosis, treatment, or special-formula dosage requests for an individual child
+- Personal data or children's private records
+- Individual-condition assessments, management-plan requests, or special-formula amount requests for a specific child
 - Spam, advertising, or unrelated promotions
 - Piracy, cracking, or other unlawful content
 

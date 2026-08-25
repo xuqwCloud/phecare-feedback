@@ -1,8 +1,8 @@
 # PheCare Privacy Policy
 
-Last updated: August 24, 2026
+Last updated: August 25, 2026
 
-PheCare is an iPhone food and health record app for parents and caregivers of children with PKU. This policy explains how PheCare handles information entered into the app.
+PheCare is an iPhone app for parents and caregivers of children with PKU to organize daily food and growth records. This policy explains how PheCare handles information users choose to enter into the app.
 
 ## Core Principles
 
@@ -40,7 +40,7 @@ PheCare provides data-management actions initiated by the user:
 - **Complete data import** lets the user select a backup file and restore its contents into the app
 - **Food sharing packages** contain only custom food data selected by the user and do not contain a baby profile, dietary records, blood values, or growth records
 
-An exported backup may contain a minor's health information and is currently saved in a readable data-file format. Do not send a backup to an untrusted person or upload it to a public Issue, forum, or file-sharing page.
+An exported backup may contain a minor's personal records and is currently saved in a readable data-file format. Do not send a backup to an untrusted person or upload it to a public Issue, forum, or file-sharing page.
 
 The user chooses the export destination through the iOS file picker or share interface. If the user selects iCloud Drive, a third-party storage provider, email, or another service, further processing is governed by that service's privacy policy. The PheCare developer cannot control those external copies.
 
@@ -73,13 +73,13 @@ Because the developer does not automatically receive or retain this local data, 
 
 PheCare is intended for use by parents or other adult caregivers and is not designed for children to register for or use directly.
 
-The app allows caregivers to record child-related health information locally, but that information is not automatically submitted to the developer. Users should not disclose a child's identity or health information in public feedback, screenshots, or logs.
+The app allows caregivers to store child-related records locally, but that information is not automatically submitted to the developer. Users should not disclose a child's identity or specific records in public feedback, screenshots, or logs.
 
-## Medical and Health Disclaimer
+## Feature Boundaries
 
-PheCare is intended only for household record keeping, conversions, and information organization. It does not provide a medical diagnosis, treatment plan, or special-formula dosage recommendation.
+PheCare is intended only for household record keeping, numeric conversions, and information organization. It does not determine an individual's condition, create a management plan, assess suitability, or recommend a special-formula amount.
 
-Consensus information, reference ranges, and estimates shown in the app do not replace a physician, qualified dietitian, laboratory result, product label, or manufacturer report. Dietary targets, treatment changes, and medical decisions must be determined by qualified professionals based on the individual's circumstances.
+Public references, displayed intervals, and estimates in the app are provided only to help organize records. Results may vary by individual, food state, product batch, and test method. Users should rely on the management basis they have independently confirmed, formal test results, product labels, and manufacturer information. The app does not automatically turn records into individualized conclusions or actions.
 
 ## Data Security
 
@@ -87,7 +87,7 @@ We minimize data access and transmission within the app's capabilities. Users sh
 
 - Protect the device with a passcode, Face ID, or Touch ID
 - Store exported backup files securely
-- Redact names, birth dates, hospitals, blood values, and other sensitive details before sharing screenshots
+- Redact names, birth dates, testing organizations, blood values, and other sensitive details before sharing screenshots
 - Never upload a complete backup to a public feedback repository
 
 ## Changes to This Privacy Policy
