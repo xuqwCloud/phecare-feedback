@@ -1,8 +1,8 @@
 # PheCare Privacy Policy
 
-Last updated: August 25, 2026
+Last updated: August 26, 2026
 
-PheCare is an iPhone app for parents and caregivers of children with PKU to organize daily food and growth records. This policy explains how PheCare handles information users choose to enter into the app.
+PheCare is an iPhone and iPad app for parents and caregivers of children with PKU to organize daily food and growth records. This policy explains how PheCare handles information users choose to enter into the app.
 
 ## Core Principles
 
@@ -77,9 +77,11 @@ The app allows caregivers to store child-related records locally, but that infor
 
 ## Feature Boundaries
 
-PheCare is intended only for household record keeping, numeric conversions, and information organization. It does not determine an individual's condition, create a management plan, assess suitability, or recommend a special-formula amount.
+PheCare is intended only for household record keeping, numeric conversions, and information organization. It does not provide a diagnosis or generate an individualized dietary plan or special-formula amount from the user's records.
 
-Public references, displayed intervals, and estimates in the app are provided only to help organize records. Results may vary by individual, food state, product batch, and test method. Users should rely on the management basis they have independently confirmed, formal test results, product labels, and manufacturer information. The app does not automatically turn records into individualized conclusions or actions.
+The app displays sourced age-based reference ranges, editable starting values, unit-conversion results, and numeric comparisons with targets entered by the user. The age-based dietary Phe bands and blood Phe record-reference ranges come from the *Consensus Statement on Dietary Treatment and Nutritional Management for Phenylalanine Hydroxylase Deficiency*, *Chinese Journal of Pediatrics*, 2019, Vol. 57, No. 6, pp. 405–409, DOI: `10.3760/cma.j.issn.0578-1310.2019.06.002`. The in-app “References & Calculations” page discloses the current rule-set version and complete calculation methods.
+
+All ranges, starting values, conversions, and trends are for record keeping and information only. They must not be used to independently adjust a dietary plan, special-formula amount, or other personal arrangement. Results may vary by individual, food state, product batch, sample type, and test method. Users should rely on the original laboratory report, product labels, manufacturer information, and the management basis they have independently confirmed. Confirm changes to targets or daily routines with an appropriately qualified professional first.
 
 ## Data Security
 
@@ -96,6 +98,6 @@ This policy may be updated when PheCare's features or data practices change. The
 
 ## Contact
 
-For privacy questions or technical support, contact us through the PheCare GitHub repository:
+For privacy questions or technical support, email <xbeichenbei@gmail.com> or contact us through the PheCare GitHub repository:
 
 <https://github.com/xuqwCloud/phecare-feedback/issues>

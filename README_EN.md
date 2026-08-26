@@ -8,7 +8,7 @@
 
 > User support, privacy information, feature requests, and bug reports for PheCare
 
-PheCare is an iPhone daily record app for parents and caregivers of children with PKU. It helps users organize food intake, special formula, blood Phe test results, and growth measurements, with calculations and trend displays performed on the device.
+PheCare is an iPhone and iPad daily record app for parents and caregivers of children with PKU. It helps users organize food intake, special formula, blood Phe test results, and growth measurements, with calculations and trend displays performed on the device.
 
 This repository **does not contain the PheCare source code**. It is used to:
 
@@ -19,7 +19,7 @@ This repository **does not contain the PheCare source code**. It is used to:
 
 > **Important**
 >
-> PheCare is a household record-keeping, numeric-conversion, and information-organizing tool. It does not determine an individual's condition, create a management plan, assess suitability, or recommend a special-formula amount. Users enter targets based on their independently confirmed management basis; displayed intervals and estimates do not automatically generate individualized conclusions or actions.
+> PheCare is a household record-keeping, numeric-conversion, and information-organizing tool. It displays sourced age-based reference ranges, editable starting values, and numeric comparisons with targets entered by the user, but it does not turn them into individualized actions. All ranges, starting values, conversions, and trends are for record keeping and information only and must not be used to independently adjust a dietary plan or special-formula amount.
 
 ## Key Features
 
@@ -86,6 +86,8 @@ Food entries identify their source, preparation state, and data type where possi
 
 Food variety, origin, preparation, brand formulation, and production batch can all affect actual nutrient values. Estimates in the app are provided only to support record keeping; users should rely on product labels, manufacturer information, and data sources they have independently confirmed.
 
+The age-based dietary Phe bands and blood Phe record-reference ranges come from the *Consensus Statement on Dietary Treatment and Nutritional Management for Phenylalanine Hydroxylase Deficiency*, *Chinese Journal of Pediatrics*, 2019, Vol. 57, No. 6, pp. 405–409, DOI: `10.3760/cma.j.issn.0578-1310.2019.06.002`. The in-app “References & Calculations” page also discloses the current rule-set version, starting-value rule, unit conversions, and Phe/Tyr derivation methods.
+
 ## How to Submit Feedback
 
 Choose the appropriate template in [Issues](../../issues):
@@ -104,7 +106,7 @@ Before submitting:
 
 ## What to Include in a Bug Report
 
-1. iPhone model and iOS version
+1. iPhone or iPad model and operating-system version
 2. PheCare version
 3. Steps immediately preceding the issue
 4. Expected and actual behavior
@@ -123,28 +125,9 @@ Early ideas and informal conversations are welcome in [Discussions](../../discus
 - Spam, advertising, or unrelated promotions
 - Piracy, cracking, or other unlawful content
 
-## Support PheCare
-
-PheCare is maintained and offered free of charge. If it helps with your family's record keeping, you are welcome to support continued device compatibility, data maintenance, and feature development with a small donation.
-
-### For users in mainland China: WeChat
-
-<div align="center">
-  <img src="./assets/wechat-donate.png" width="320" alt="WeChat donation QR code" />
-  <p>Scan the QR code with WeChat to donate</p>
-</div>
-
-### For international users: PayPal
-
-International users can send a payment through [PayPal](https://www.paypal.com/) to:
-
-**xbeichenbei@gmail.com**
-
-> Please verify the recipient email address before sending a payment. Any amount is appreciated. Thank you for your support 🙏
-
 ## Contact
 
-For technical support, privacy questions, or product feedback, contact us through [GitHub Issues](../../issues).
+For technical support, privacy questions, or product feedback, email [xbeichenbei@gmail.com](mailto:xbeichenbei@gmail.com) or use [GitHub Issues](../../issues). Do not send a child's identifying information, real blood values, or a complete backup by email or in a public Issue.
 
 ## License
 
